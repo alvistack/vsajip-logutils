@@ -1,0 +1,5 @@
+python-logutils source: file-without-copyright-information
+python-logutils source: no-debian-changes
+python-logutils source: source-contains-prebuilt-windows-binary
+python-logutils source: source-is-missing
+python-logutils source: source-package-encodes-python-version

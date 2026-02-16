@@ -1,0 +1,11 @@
+*.egg-info
+.coverage
+.pybuild/
+.pyc
+.pyo
+MANIFEST
+__pycache__
+build
+dist
+doc
+themes
